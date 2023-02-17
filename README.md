@@ -1,7 +1,7 @@
 ### Hi, I'm Andre ✌️
 ___
 
-#### Lead Teacher at Ironhack Lisbon 🧑‍💻 former fisherman 🐟
+#### Software Dev,Lead Teacher at Ironhack Lisbon 🧑‍💻 former fisherman 🐟
 <a href="https://www.linkedin.com/in/andr%C3%A9-ferreira-wd/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
@@ -10,7 +10,7 @@ ___
 
 #### Currently looking at:
 
-![My Skills](https://skills.thijs.gg/icons?i=react,ts,deno)
+![My Skills](https://skills.thijs.gg/icons?i=react,ts, nextjs,cs)
 
 ___
 
