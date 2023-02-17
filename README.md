@@ -10,7 +10,7 @@ ___
 
 #### Currently looking at:
 
-![My Skills](https://skills.thijs.gg/icons?i=react,ts, nextjs,cs)
+![My Skills](https://skills.thijs.gg/icons?i=react,ts,nextjs,cs)
 
 ___
 
