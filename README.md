@@ -1,7 +1,7 @@
 ### Hi, I'm Andre ✌️
 ___
 
-#### Software Dev,Lead Teacher at Ironhack Lisbon 🧑‍💻 former fisherman 🐟
+#### Software Dev at Sanjow, occasional teacher 🧑‍💻 former fisherman 🐟
 <a href="https://www.linkedin.com/in/andr%C3%A9-ferreira-wd/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
