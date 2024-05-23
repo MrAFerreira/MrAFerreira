@@ -5,13 +5,6 @@ ___
 <a href="https://www.linkedin.com/in/andr%C3%A9-ferreira-wd/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
 </a>
-
-___
-
-#### Currently looking at:
-
-![My Skills](https://skills.thijs.gg/icons?i=react,ts,nextjs,cs)
-
 ___
 
 ![MrAFerreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAFerreira)
